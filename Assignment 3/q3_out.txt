@@ -1,0 +1,7 @@
+q3_in.txt
+Net Score:8.13
+Top 5 words:['the', 'a', 'and', 'of', 'as']
+Random words:['data', 'nested', 'during', 'output', 'output']q3_in.txt
+Net Score:8.13
+Top 5 words:['the', 'a', 'and', 'of', 'as']
+Random words:['determine', 'end', 'campus', 'nothing', 'number']

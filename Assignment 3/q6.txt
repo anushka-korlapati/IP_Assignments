@@ -1,0 +1,28 @@
+Advantages of Using OO:
+1. In Object oriented programming the user has the ability to define a new type, define variables of this type and invoke operations on it.
+2. We can have different user defined data types.
+
+Advantages of using Dictionaries:
+1. In Dictionaries, we can associate values to unique keys
+2. Dictionaries are faster than other data types
+
+Disadvantage of using OO
+1.They are harder to understand, learn and implement in programs
+2.The length of programs is longer in case of using OOPs
+
+Disadvantage of using dictionaries
+1.Dictionaries are unordered and mutable
+2.In dictionaries, each dictionary object will be separate, and you will have to write functions 
+
+Performance comparison for grading operation (give in each line: value of N; time taken by two approaches in seconds, and which is faster and by how much).
+1. N:20
+2. Time by OO: 0.004461050033569336
+3. Time by dictionary:0.02786707878112793
+4. X is faster; fraction of time x took is: OO is faster by 0.02340602874
+
+Performance comparison for search operation (give in each line: value of N; time taken by two approaches in seconds, and which is faster and by how much).
+1. N:20
+2. Time by OO:2.0225582122802734
+3. Time by dictionary:2.833150625228882
+4. X is faster; fraction of time x took is: OO, by 0.81059241294
+
