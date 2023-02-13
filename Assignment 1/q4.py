@@ -22,10 +22,3 @@ while a<b:
 
 d=(v*t)/z
 print("distance",d)
-
-
-
-
-
-
-
