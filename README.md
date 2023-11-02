@@ -1,2 +1,1 @@
-# IP_Assignment
-Sem 1 assignments
+CSE101 - Introduction to Programming 
