@@ -1,1 +1,1 @@
-CSE101 - Introduction to Programming 
+CSE101 - Introduction to Programming course assignments
